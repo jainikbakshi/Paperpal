@@ -23,13 +23,23 @@
 
 2.  AI generated Content Checker
 
-    1.1. The state-of-the-art model, 'Roberta-base-openai-detector' is used for text-classification from HuggingFace.
+    2.1. The state-of-the-art model, 'Roberta-base-openai-detector' is used for text-classification from HuggingFace.
     
-    1.2. The pipeline is constructed and then it is tokenized and the model is ready for use.
+    2.2. The pipeline is constructed and then it is tokenized and the model is ready for use.
     
-    1.3. The PDF text is now tokenized and passed through the model, and it returns output and label.
+    2.3. The PDF text is now tokenized and passed through the model, and it returns output and label.
     
-    1.4. The confidence is given as an output, which shows what percentage of the PDF is written by AI or Human.
+    2.4. The confidence is given as an output, which shows what percentage of the PDF is written by AI or Human.
     
     
- 3. 
+3.  Salami Publishing Check
+   
+   3.1. The author name is searched on the google scholar and every research paper, available publicly is downloaded.
+   
+   3.2. By far, the most complicated and useful check implemented using best preprocessing techniques, which skims the abstract, introduction and conclusion of every research paper of an author. 
+   
+   3.3. This then goes through series of checks, which summarizes the text and uses Doc2Vec model for further processing.
+   
+   3.4. The model then gives output as similarity index with the mentioned pdf, which gives us an idea of author's work and how they are similar to each other.
+   
+
