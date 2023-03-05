@@ -65,10 +65,14 @@
 The report of Image Quality Checker is shown as below:
 ![WhatsApp Image 2023-03-05 at 1 08 02 PM](https://user-images.githubusercontent.com/94166841/222948137-b4093e03-633b-4ce1-871b-9b3cb30fbb18.jpeg)
 
-The running of epoch is shown as below:
+The running of epoch of AI Generated Checker is shown as below:
 
 ![WhatsApp Image 2023-03-05 at 1 10 44 PM (1)](https://user-images.githubusercontent.com/94166841/222948254-ab467644-20c7-4394-9922-ffb2786244c7.jpeg)
 
 The report of AI Generated Checker is shown as below:
 
 ![WhatsApp Image 2023-03-05 at 1 12 16 PM](https://user-images.githubusercontent.com/94166841/222948362-341554fc-3f29-4b1c-a110-6c170722e3c6.jpeg)
+
+The ruuning of epoch of Salami Check is shown as below:
+
+![WhatsApp Image 2023-03-05 at 1 14 59 PM (1)](https://user-images.githubusercontent.com/94166841/222948437-6eb799b1-558c-49e0-a6a1-dcf27e92f1e8.jpeg)
