@@ -82,3 +82,4 @@ The report of Salami Check is shown as below:
 
 The epoch of Publication Integrity is shown as below:
 
+![WhatsApp Image 2023-03-05 at 1 25 25 PM](https://user-images.githubusercontent.com/94166841/222948795-35455579-1305-4fd8-8b6b-94d900659bd8.jpeg)
