@@ -76,3 +76,9 @@ The report of AI Generated Checker is shown as below:
 The ruuning of epoch of Salami Check is shown as below:
 
 ![WhatsApp Image 2023-03-05 at 1 14 59 PM (1)](https://user-images.githubusercontent.com/94166841/222948437-6eb799b1-558c-49e0-a6a1-dcf27e92f1e8.jpeg)
+
+The report of Salami Check is shown as below:
+![WhatsApp Image 2023-03-05 at 1 21 29 PM](https://user-images.githubusercontent.com/94166841/222948618-9a153d9c-68ec-41bf-82f9-ca1b3e076908.jpeg)
+
+The epoch of Publication Integrity is shown as below:
+
