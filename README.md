@@ -45,6 +45,7 @@
 
 4. Image Quality Checker
 
+
    4.1. Images are extracted from the pdf file using the python library PyMUPDF
    
    4.2. Images are then passed through a series of processing using cv2 of python, which flags the image as blurred or High resolution.
@@ -54,5 +55,6 @@
    4.4. The blurred images are now, passed through a state-of-the-art SRGAN model, which is trained on the dataset, which converts low resolution image to high             resolution image and gives output to the user.
    
    4.5. The High resolution images obtained are automatically stored in the High resolution Folder.
-   
-
+ 
+ The images of website are as follows:
+![WhatsApp Image 2023-03-05 at 12 42 16 PM (1)](https://user-images.githubusercontent.com/94166841/222947846-34aadba1-a882-4e5a-8324-ae65e1d51e20.jpeg)
