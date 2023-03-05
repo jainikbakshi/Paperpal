@@ -34,12 +34,12 @@
     
 3.  Salami Publishing Check
    
-   3.1. The author name is searched on the google scholar and every research paper, available publicly is downloaded.
+    3.1. The author name is searched on the google scholar and every research paper, available publicly is downloaded.
    
-   3.2. By far, the most complicated and useful check implemented using best preprocessing techniques, which skims the abstract, introduction and conclusion of every research paper of an author. 
+    3.2. By far, the most complicated and useful check implemented using best preprocessing techniques, which skims the abstract, introduction and conclusion of              every research paper of an author. 
    
-   3.3. This then goes through series of checks, which summarizes the text and uses Doc2Vec model for further processing.
+    3.3. This then goes through series of checks, which summarizes the text and uses Doc2Vec model for further processing.
    
-   3.4. The model then gives output as similarity index with the mentioned pdf, which gives us an idea of author's work and how they are similar to each other.
+    3.4. The model then gives output as similarity index with the mentioned pdf, which gives us an idea of author's work and how they are similar to each other.
    
 
