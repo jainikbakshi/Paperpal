@@ -41,5 +41,18 @@
     3.3. This then goes through series of checks, which summarizes the text and uses Doc2Vec model for further processing.
    
     3.4. The model then gives output as similarity index with the mentioned pdf, which gives us an idea of author's work and how they are similar to each other.
+    
+
+4. Image Quality Checker
+
+   4.1. Images are extracted from the pdf file using the python library PyMUPDF
+   
+   4.2. Images are then passed through a series of processing using cv2 of python, which flags the image as blurred or High resolution.
+   
+   4.3. By the end of this step, the user has different local drives containing high resolution and blurred images.
+   
+   4.4. The blurred images are now, passed through a state-of-the-art SRGAN model, which is trained on the dataset, which converts low resolution image to high             resolution image and gives output to the user.
+   
+   4.5. The High resolution images obtained are automatically stored in the High resolution Folder.
    
 
