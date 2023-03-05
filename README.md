@@ -56,5 +56,10 @@
    
    4.5. The High resolution images obtained are automatically stored in the High resolution Folder.
  
+ 
+ 
+ 
  The images of website are as follows:
 ![WhatsApp Image 2023-03-05 at 12 42 16 PM (1)](https://user-images.githubusercontent.com/94166841/222947846-34aadba1-a882-4e5a-8324-ae65e1d51e20.jpeg)
+
+![WhatsApp Image 2023-03-05 at 1 08 02 PM](https://user-images.githubusercontent.com/94166841/222948137-b4093e03-633b-4ce1-871b-9b3cb30fbb18.jpeg)
