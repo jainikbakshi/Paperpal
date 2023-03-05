@@ -15,8 +15,21 @@
  
  Salient Features of Each track are as follows:
  
- 1. Publication Integrity Check\
+ 1. Publication Integrity Check
  
      1.1. Typo errors are flagged and checked, by converting a pdf and preprocessing data using series of  preprocessors, autocorrects and spell checkers.
      
      1.2. Plagiarism Checker uses web scraping from Wikipedia, assumed to be the authentic source, converted to a corpus, passed through a series of preprocessors and           uses state-of-the art doc2Vec model. The model is trained and evaluated for, against our pdf/docx, uses co-sine similarity and produces results in decreasing           sorted order of similarity.
+
+2.  AI generated Content Checker
+
+    1.1. The state-of-the-art model, 'Roberta-base-openai-detector' is used for text-classification from HuggingFace.
+    
+    1.2. The pipeline is constructed and then it is tokenized and the model is ready for use.
+    
+    1.3. The PDF text is now tokenized and passed through the model, and it returns output and label.
+    
+    1.4. The confidence is given as an output, which shows what percentage of the PDF is written by AI or Human.
+    
+    
+ 3. 
